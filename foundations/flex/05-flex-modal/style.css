@@ -74,6 +74,10 @@ button.cancel {
   padding:20px;
 }
 
+.icon{
+  flex-shrink: 0;
+}
+
 .left{
 
 }
